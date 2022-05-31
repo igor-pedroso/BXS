@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+.img2 {
+    height: 100px;
+    width: 1340px;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-size: 28px;
+    
+}
+
+h2 {
+    margin: 50px;
+    text-align: center;
+}
